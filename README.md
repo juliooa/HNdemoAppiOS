@@ -16,7 +16,7 @@ In this project the following libraries are used:
 * Alamofire to manage the network requests (https://github.com/Alamofire/Alamofire)
 * SwiftyJSON to handle the JSON responses (https://github.com/SwiftyJSON/SwiftyJSON)
 
-This app was written with Swift 1.2
+This app was written in Swift 1.2
 
 Requirements
 --------------
