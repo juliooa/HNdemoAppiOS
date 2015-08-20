@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "DemoAppiOS/StoriesViewController.swift"
-            timestampString = "461643932.230002"
+            timestampString = "461719896.081582"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "51"
-            endingLineNumber = "51"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
             landmarkName = "getHNStories()"
             landmarkType = "5">
          </BreakpointContent>
@@ -26,12 +26,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "DemoAppiOS/Story.swift"
-            timestampString = "461641816.037677"
+            timestampString = "461705923.155298"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "21"
-            endingLineNumber = "21"
-            landmarkName = "init(object_id:story_title:title:author:created_at:)"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init(object_id:story_title:title:author:created_at:story_url:url:)"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -42,7 +42,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "DemoAppiOS/StoryDetailController.swift"
-            timestampString = "461643235.664961"
+            timestampString = "461701091.906251"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "14"

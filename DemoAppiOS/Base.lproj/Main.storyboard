@@ -33,7 +33,7 @@
                                     </subviews>
                                 </tableViewCellContentView>
                                 <connections>
-                                    <segue destination="4Dp-Xw-k9b" kind="show" id="xbe-Du-gAi"/>
+                                    <segue destination="4Dp-Xw-k9b" kind="show" identifier="showStoryWeb" id="xbe-Du-gAi"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>

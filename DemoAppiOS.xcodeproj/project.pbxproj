@@ -141,10 +141,10 @@
 		C1C635041B8393EE007E6222 /* DemoAppiOS */ = {
 			isa = PBXGroup;
 			children = (
+				C1C635631B854BE2007E6222 /* Communications */,
 				C1C6352D1B839E30007E6222 /* Controllers */,
 				C1C6352A1B839DD9007E6222 /* Model */,
 				C1C6350E1B8393EE007E6222 /* Main.storyboard */,
-				C1C635561B83AD1E007E6222 /* HNRestClient.swift */,
 				C1C635051B8393EE007E6222 /* Supporting Files */,
 				C1C6355A1B840F69007E6222 /* SwiftyJSON.swift */,
 			);
@@ -206,6 +206,14 @@
 				C1C635501B83ACE4007E6222 /* Alamofire OSX Tests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		C1C635631B854BE2007E6222 /* Communications */ = {
+			isa = PBXGroup;
+			children = (
+				C1C635561B83AD1E007E6222 /* HNRestClient.swift */,
+			);
+			name = Communications;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -554,6 +562,7 @@
 				C1C635261B8393EE007E6222 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C1C635271B8393EE007E6222 /* Build configuration list for PBXNativeTarget "DemoAppiOSTests" */ = {
 			isa = XCConfigurationList;
@@ -562,6 +571,7 @@
 				C1C635291B8393EE007E6222 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

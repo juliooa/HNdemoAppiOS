@@ -11,11 +11,13 @@ import UIKit
 class StoryDetailController: UIViewController {
 
     @IBOutlet var webView: UIWebView!
+    var storyURL = String()
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        webView.loadRequest(NSURLRequest(URL: NSURL(string: "http://www.wearenicecorp.com")!))
+        webView.loadRequest(NSURLRequest(URL: NSURL(string: storyURL)!))
+        println(storyURL)
     }
 
     
